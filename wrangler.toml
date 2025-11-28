@@ -1,4 +1,4 @@
-name = "academic-doc-generator"
+name = "school-tools-v1"
 main = "worker.js" # 这里需要一个空的 worker 脚本，或者干脆不填 main，取决于 wrangler 版本
 compatibility_date = "2024-11-28"
 
@@ -7,3 +7,4 @@ compatibility_date = "2024-11-28"
 directory = "./dist" # 或者 .vitepress/dist，取决于你的构建输出
 
 binding = "ASSETS"
+
